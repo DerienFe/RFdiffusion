@@ -1,0 +1,7 @@
+- inference.output_prefix=example_outputs/egfr_binder_design
+- inference.input_pdb=input_pdbs/6aru.pdb
+- contigmap.contigs=[A349-469/0 100-200]
+- ppi.hotspot_res=[A349,A350,A353,A354,A384,A385,A417,A418,A419,A441,A442,A467,A468,A469]
+- inference.num_designs=10
+- denoiser.noise_scale_ca=0
+- denoiser.noise_scale_frame=0

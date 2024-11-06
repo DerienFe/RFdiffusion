@@ -1,0 +1,1004 @@
+[2024-10-31 09:32:58,968][__main__][INFO] - Found GPU with device_name NVIDIA GeForce RTX 4080. Will run RFdiffusion on NVIDIA GeForce RTX 4080
+[2024-10-31 09:32:58,969][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /mnt/data/TIEJUN_WORK_2/RFdiffusion/rfdiffusion/inference/../../models/Complex_base_ckpt.pt
+[2024-10-31 09:33:00,558][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2024-10-31 09:33:00,614][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_0
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_0.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_1
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_1.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_2
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_2.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_3
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_3.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_4
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_4.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_5
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_5.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_6
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_6.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_7
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_7.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_8
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_8.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_9
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_9.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_10
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_10.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_11
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_11.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_12
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_12.pdb already exists.
+[2024-10-31 09:33:00,654][__main__][INFO] - Making design example_outputs/egfr_binder_design_13
+[2024-10-31 09:33:00,654][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_13.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_14
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_14.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_15
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_15.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_16
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_16.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_17
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_17.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_18
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_18.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_19
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_19.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_20
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_20.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_21
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_21.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_22
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_22.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_23
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_23.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_24
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_24.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_25
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_25.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_26
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_26.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_27
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_27.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_28
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_28.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_29
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_29.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_30
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_30.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_31
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_31.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_32
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_32.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_33
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_33.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_34
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_34.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_35
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_35.pdb already exists.
+[2024-10-31 09:33:00,655][__main__][INFO] - Making design example_outputs/egfr_binder_design_36
+[2024-10-31 09:33:00,655][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_36.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_37
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_37.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_38
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_38.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_39
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_39.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_40
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_40.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_41
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_41.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_42
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_42.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_43
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_43.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_44
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_44.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_45
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_45.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_46
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_46.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_47
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_47.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_48
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_48.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_49
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_49.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_50
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_50.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_51
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_51.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_52
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_52.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_53
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_53.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_54
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_54.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_55
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_55.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_56
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_56.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_57
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_57.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_58
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_58.pdb already exists.
+[2024-10-31 09:33:00,656][__main__][INFO] - Making design example_outputs/egfr_binder_design_59
+[2024-10-31 09:33:00,656][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_59.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_60
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_60.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_61
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_61.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_62
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_62.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_63
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_63.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_64
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_64.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_65
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_65.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_66
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_66.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_67
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_67.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_68
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_68.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_69
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_69.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_70
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_70.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_71
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_71.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_72
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_72.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_73
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_73.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_74
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_74.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_75
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_75.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_76
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_76.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_77
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_77.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_78
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_78.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_79
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_79.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_80
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_80.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_81
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_81.pdb already exists.
+[2024-10-31 09:33:00,657][__main__][INFO] - Making design example_outputs/egfr_binder_design_82
+[2024-10-31 09:33:00,657][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_82.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_83
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_83.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_84
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_84.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_85
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_85.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_86
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_86.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_87
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_87.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_88
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_88.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_89
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_89.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_90
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_90.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_91
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_91.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_92
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_92.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_93
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_93.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_94
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_94.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_95
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_95.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_96
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_96.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_97
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_97.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_98
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_98.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_99
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_99.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_100
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_100.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_101
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_101.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_102
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_102.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_103
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_103.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_104
+[2024-10-31 09:33:00,658][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_104.pdb already exists.
+[2024-10-31 09:33:00,658][__main__][INFO] - Making design example_outputs/egfr_binder_design_105
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_105.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_106
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_106.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_107
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_107.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_108
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_108.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_109
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_109.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_110
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_110.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_111
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_111.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_112
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_112.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_113
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_113.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_114
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_114.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_115
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_115.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_116
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_116.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_117
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_117.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_118
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_118.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_119
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_119.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_120
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_120.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_121
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_121.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_122
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_122.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_123
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_123.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_124
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_124.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_125
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_125.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_126
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_126.pdb already exists.
+[2024-10-31 09:33:00,659][__main__][INFO] - Making design example_outputs/egfr_binder_design_127
+[2024-10-31 09:33:00,659][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_127.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_128
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_128.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_129
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_129.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_130
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_130.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_131
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_131.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_132
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_132.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_133
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_133.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_134
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_134.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_135
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_135.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_136
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_136.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_137
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_137.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_138
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_138.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_139
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_139.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_140
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_140.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_141
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_141.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_142
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_142.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_143
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_143.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_144
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_144.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_145
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_145.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_146
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_146.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_147
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_147.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_148
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_148.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_149
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_149.pdb already exists.
+[2024-10-31 09:33:00,660][__main__][INFO] - Making design example_outputs/egfr_binder_design_150
+[2024-10-31 09:33:00,660][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_150.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_151
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_151.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_152
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_152.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_153
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_153.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_154
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_154.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_155
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_155.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_156
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_156.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_157
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_157.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_158
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_158.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_159
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_159.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_160
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_160.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_161
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_161.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_162
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_162.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_163
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_163.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_164
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_164.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_165
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_165.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_166
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_166.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_167
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_167.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_168
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_168.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_169
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_169.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_170
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_170.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_171
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_171.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_172
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_172.pdb already exists.
+[2024-10-31 09:33:00,661][__main__][INFO] - Making design example_outputs/egfr_binder_design_173
+[2024-10-31 09:33:00,661][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_173.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_174
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_174.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_175
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_175.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_176
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_176.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_177
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_177.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_178
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_178.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_179
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_179.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_180
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_180.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_181
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_181.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_182
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_182.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_183
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_183.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_184
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_184.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_185
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_185.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_186
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_186.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_187
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_187.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_188
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_188.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_189
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_189.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_190
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_190.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_191
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_191.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_192
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_192.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_193
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_193.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_194
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_194.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_195
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_195.pdb already exists.
+[2024-10-31 09:33:00,662][__main__][INFO] - Making design example_outputs/egfr_binder_design_196
+[2024-10-31 09:33:00,662][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_196.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_197
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_197.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_198
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_198.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_199
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_199.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_200
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_200.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_201
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_201.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_202
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_202.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_203
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_203.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_204
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_204.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_205
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_205.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_206
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_206.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_207
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_207.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_208
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_208.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_209
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_209.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_210
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_210.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_211
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_211.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_212
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_212.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_213
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_213.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_214
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_214.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_215
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_215.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_216
+[2024-10-31 09:33:00,663][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_216.pdb already exists.
+[2024-10-31 09:33:00,663][__main__][INFO] - Making design example_outputs/egfr_binder_design_217
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_217.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_218
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_218.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_219
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_219.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_220
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_220.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_221
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_221.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_222
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_222.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_223
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_223.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_224
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_224.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_225
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_225.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_226
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_226.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_227
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_227.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_228
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_228.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_229
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_229.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_230
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_230.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_231
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_231.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_232
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_232.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_233
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_233.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_234
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_234.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_235
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_235.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_236
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_236.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_237
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_237.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_238
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_238.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_239
+[2024-10-31 09:33:00,664][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_239.pdb already exists.
+[2024-10-31 09:33:00,664][__main__][INFO] - Making design example_outputs/egfr_binder_design_240
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_240.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_241
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_241.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_242
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_242.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_243
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_243.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_244
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_244.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_245
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_245.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_246
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_246.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_247
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_247.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_248
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_248.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_249
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_249.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_250
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_250.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_251
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_251.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_252
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_252.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_253
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_253.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_254
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_254.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_255
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_255.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_256
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_256.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_257
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_257.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_258
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_258.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_259
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_259.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_260
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_260.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_261
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_261.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_262
+[2024-10-31 09:33:00,665][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_262.pdb already exists.
+[2024-10-31 09:33:00,665][__main__][INFO] - Making design example_outputs/egfr_binder_design_263
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_263.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_264
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_264.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_265
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_265.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_266
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_266.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_267
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_267.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_268
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_268.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_269
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_269.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_270
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_270.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_271
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_271.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_272
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_272.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_273
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_273.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_274
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_274.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_275
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_275.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_276
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_276.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_277
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_277.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_278
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_278.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_279
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_279.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_280
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_280.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_281
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_281.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_282
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_282.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_283
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_283.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_284
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_284.pdb already exists.
+[2024-10-31 09:33:00,666][__main__][INFO] - Making design example_outputs/egfr_binder_design_285
+[2024-10-31 09:33:00,666][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_285.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_286
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_286.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_287
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_287.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_288
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_288.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_289
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_289.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_290
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_290.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_291
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_291.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_292
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_292.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_293
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_293.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_294
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_294.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_295
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_295.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_296
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_296.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_297
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_297.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_298
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_298.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_299
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_299.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_300
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_300.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_301
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_301.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_302
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_302.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_303
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_303.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_304
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_304.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_305
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_305.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_306
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_306.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_307
+[2024-10-31 09:33:00,667][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_307.pdb already exists.
+[2024-10-31 09:33:00,667][__main__][INFO] - Making design example_outputs/egfr_binder_design_308
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_308.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_309
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_309.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_310
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_310.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_311
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_311.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_312
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_312.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_313
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_313.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_314
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_314.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_315
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_315.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_316
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_316.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_317
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_317.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_318
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_318.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_319
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_319.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_320
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_320.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_321
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_321.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_322
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_322.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_323
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_323.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_324
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_324.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_325
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_325.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_326
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_326.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_327
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_327.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_328
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_328.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_329
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_329.pdb already exists.
+[2024-10-31 09:33:00,668][__main__][INFO] - Making design example_outputs/egfr_binder_design_330
+[2024-10-31 09:33:00,668][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_330.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_331
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_331.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_332
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_332.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_333
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_333.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_334
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_334.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_335
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_335.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_336
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_336.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_337
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_337.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_338
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_338.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_339
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_339.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_340
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_340.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_341
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_341.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_342
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_342.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_343
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_343.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_344
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_344.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_345
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_345.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_346
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_346.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_347
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_347.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_348
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_348.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_349
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_349.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_350
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_350.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_351
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_351.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_352
+[2024-10-31 09:33:00,669][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_352.pdb already exists.
+[2024-10-31 09:33:00,669][__main__][INFO] - Making design example_outputs/egfr_binder_design_353
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_353.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_354
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_354.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_355
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_355.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_356
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_356.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_357
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_357.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_358
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_358.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_359
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_359.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_360
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_360.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_361
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_361.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_362
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_362.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_363
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_363.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_364
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_364.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_365
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_365.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_366
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_366.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_367
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_367.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_368
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_368.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_369
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_369.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_370
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_370.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_371
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_371.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_372
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_372.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_373
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_373.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_374
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_374.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_375
+[2024-10-31 09:33:00,670][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_375.pdb already exists.
+[2024-10-31 09:33:00,670][__main__][INFO] - Making design example_outputs/egfr_binder_design_376
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_376.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_377
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_377.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_378
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_378.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_379
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_379.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_380
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_380.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_381
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_381.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_382
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_382.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_383
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_383.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_384
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_384.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_385
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_385.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_386
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_386.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_387
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_387.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_388
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_388.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_389
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_389.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_390
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_390.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_391
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_391.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_392
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_392.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_393
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_393.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_394
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_394.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_395
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_395.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_396
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_396.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_397
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_397.pdb already exists.
+[2024-10-31 09:33:00,671][__main__][INFO] - Making design example_outputs/egfr_binder_design_398
+[2024-10-31 09:33:00,671][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_398.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_399
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_399.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_400
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_400.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_401
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_401.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_402
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_402.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_403
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_403.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_404
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_404.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_405
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_405.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_406
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_406.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_407
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_407.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_408
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_408.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_409
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_409.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_410
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_410.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_411
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_411.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_412
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_412.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_413
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_413.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_414
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_414.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_415
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_415.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_416
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_416.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_417
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_417.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_418
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_418.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_419
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_419.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_420
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_420.pdb already exists.
+[2024-10-31 09:33:00,672][__main__][INFO] - Making design example_outputs/egfr_binder_design_421
+[2024-10-31 09:33:00,672][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_421.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_422
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_422.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_423
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_423.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_424
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_424.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_425
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_425.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_426
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_426.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_427
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_427.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_428
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_428.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_429
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_429.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_430
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_430.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_431
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_431.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_432
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_432.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_433
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_433.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_434
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_434.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_435
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_435.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_436
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_436.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_437
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_437.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_438
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_438.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_439
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_439.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_440
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_440.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_441
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_441.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_442
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_442.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_443
+[2024-10-31 09:33:00,673][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_443.pdb already exists.
+[2024-10-31 09:33:00,673][__main__][INFO] - Making design example_outputs/egfr_binder_design_444
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_444.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_445
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_445.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_446
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_446.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_447
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_447.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_448
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_448.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_449
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_449.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_450
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_450.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_451
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_451.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_452
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_452.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_453
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_453.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_454
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_454.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_455
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_455.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_456
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_456.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_457
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_457.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_458
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_458.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_459
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_459.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_460
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_460.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_461
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_461.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_462
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_462.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_463
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_463.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_464
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_464.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_465
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_465.pdb already exists.
+[2024-10-31 09:33:00,674][__main__][INFO] - Making design example_outputs/egfr_binder_design_466
+[2024-10-31 09:33:00,674][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_466.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_467
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_467.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_468
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_468.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_469
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_469.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_470
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_470.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_471
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_471.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_472
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_472.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_473
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_473.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_474
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_474.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_475
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_475.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_476
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_476.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_477
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_477.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_478
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_478.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_479
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_479.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_480
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_480.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_481
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_481.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_482
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_482.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_483
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_483.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_484
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_484.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_485
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_485.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_486
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_486.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_487
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_487.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_488
+[2024-10-31 09:33:00,675][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_488.pdb already exists.
+[2024-10-31 09:33:00,675][__main__][INFO] - Making design example_outputs/egfr_binder_design_489
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_489.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_490
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_490.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_491
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_491.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_492
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_492.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_493
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_493.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_494
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_494.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_495
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_495.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_496
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_496.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_497
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_497.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_498
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_498.pdb already exists.
+[2024-10-31 09:33:00,676][__main__][INFO] - Making design example_outputs/egfr_binder_design_499
+[2024-10-31 09:33:00,676][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_499.pdb already exists.

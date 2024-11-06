@@ -1,0 +1,2 @@
+[2024-10-28 15:13:08,008][__main__][INFO] - Found GPU with device_name NVIDIA GeForce RTX 4080. Will run RFdiffusion on NVIDIA GeForce RTX 4080
+[2024-10-28 15:13:08,008][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from models/Complex_beta_ckpt.pt

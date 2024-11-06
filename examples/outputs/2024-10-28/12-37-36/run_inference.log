@@ -1,0 +1,9 @@
+[2024-10-28 12:37:36,925][__main__][INFO] - ////////////////////////////////////////////////
+[2024-10-28 12:37:36,925][__main__][INFO] - ///// NO GPU DETECTED! Falling back to CPU /////
+[2024-10-28 12:37:36,925][__main__][INFO] - ////////////////////////////////////////////////
+[2024-10-28 12:37:36,925][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /mnt/data/TIEJUN_WORK_2/RFdiffusion/rfdiffusion/inference/../../models/Complex_base_ckpt.pt
+[2024-10-28 12:37:37,552][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2024-10-28 12:37:38,758][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2024-10-28 12:37:38,766][__main__][INFO] - Making design example_outputs/design_ppi_0
+[2024-10-28 12:37:38,771][rfdiffusion.inference.model_runners][INFO] - Using contig: ['A1-150/0 70-100']
+[2024-10-28 12:37:38,783][rfdiffusion.inference.model_runners][INFO] - Sequence init: ------------------------------------------------------------------------------------EVCPGMDIRNNLTRLHELENCSVIEGHLQILLMFKTRPEDFRDLSFPKLIMITDYLLLFRVYGLESLKDLFPNLTVIRGSRLFFNYALVIFEMVHLKELGLYNLMNITRGSVRIEKNNELCYLATIDWSRILDSVEDNHIVLNKDDNEEC

@@ -1,0 +1,6 @@
+[2024-10-28 15:08:07,671][__main__][INFO] - Found GPU with device_name NVIDIA GeForce RTX 4080. Will run RFdiffusion on NVIDIA GeForce RTX 4080
+[2024-10-28 15:08:07,671][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /mnt/data/TIEJUN_WORK_2/RFdiffusion/rfdiffusion/inference/../../models/Complex_base_ckpt.pt
+[2024-10-28 15:08:08,813][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2024-10-28 15:08:08,870][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2024-10-28 15:08:08,892][__main__][INFO] - Making design example_outputs/egfr_binder_design_0
+[2024-10-28 15:08:08,892][__main__][INFO] - (cautious mode) Skipping this design because example_outputs/egfr_binder_design_0.pdb already exists.

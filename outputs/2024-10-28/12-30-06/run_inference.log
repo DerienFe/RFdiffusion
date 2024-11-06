@@ -1,0 +1,6 @@
+[2024-10-28 12:30:06,146][__main__][INFO] - ////////////////////////////////////////////////
+[2024-10-28 12:30:06,146][__main__][INFO] - ///// NO GPU DETECTED! Falling back to CPU /////
+[2024-10-28 12:30:06,146][__main__][INFO] - ////////////////////////////////////////////////
+[2024-10-28 12:30:06,146][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /mnt/data/TIEJUN_WORK_2/RFdiffusion/rfdiffusion/inference/../../models/Complex_base_ckpt.pt
+[2024-10-28 12:30:06,779][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2024-10-28 12:30:07,993][rfdiffusion.diffusion][INFO] - Calculating IGSO3.
